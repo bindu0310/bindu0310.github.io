@@ -25,7 +25,7 @@
 
 <br>
 
-![Game image]
+<!--Game image-->
 https://drive.google.com/file/d/17KIndT-8xmKCpmtESNZL8OWLBpTeVg52/view?usp=sharing
 <br>
 
