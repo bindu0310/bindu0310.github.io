@@ -25,8 +25,8 @@
 
 <br>
 
-![Game image](../../assets/images/Chrome_dinosaur_runner.png)
-
+![Game image]
+[https://drive.google.com/file/d/17KIndT-8xmKCpmtESNZL8OWLBpTeVg52/view?usp=sharing]
 <br>
 
 ## **Want to play click on the link below:**
